@@ -7,4 +7,4 @@
 
 
 
-### Use Pipfile with virtualenv
+### Use Pipfile with pipenv
