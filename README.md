@@ -1,2 +1,1 @@
-# 100DaysOfCode
-Committing to 100 days of code, >=1hr per day. Mainly Python 3.x 
+Random Code Bits. Started out as 100DaysOfCode, but most of that is not uploaded to GitHub. 
